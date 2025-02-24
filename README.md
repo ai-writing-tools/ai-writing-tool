@@ -1,6 +1,6 @@
 # AI写作工具 - 免费AI写作工具推荐~ 【2025年2月更新】
 
-> **更新时间：2025-02-24**       
+> **更新时间：2025-02-25**       
 
 本站整理收录了国内可用且免费的 **AI写作工具**，提高写作效率和质量，有需要的可自取。
 
@@ -35,10 +35,10 @@
 
 下面推荐一些高口碑的 **AI写作工具**，免费轻松使用~
 
-1. **一下AI写作 ([www.yixiaai.com](https://www.yixiaai.com/))**  
+1. **一下AI写作 ([chat.yixiaai.com](https://chat.yixiaai.com/))**  
    **AI写作工具**，支持 GPT-4、4o 和 o1 模型，支持 AI助手、AI插件、AI绘画、AI PPT 功能，使用便捷。
 
-2. **AI智慧写作 ([chat.lify.vip](https://chat.lify.vip/))**  
+2. **AI智慧写作 ([chat.lify.vip](https://www.yixiaai.com/))**  
    **AI写作免费**，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。
 
 3. **写作AI工具 ([yixiaai.cn](https://yixiaai.cn/))**  
